@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
  I learned a lot while working on this application. Every thing that I stumbled upon helped expand my knowledge.
  It ended up feeling pretty simple once I started researching and asking questions. Even though it was not fully executed as the mock up, I did indeed gain
  a good amount of knowledge.
