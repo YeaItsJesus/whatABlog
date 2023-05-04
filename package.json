@@ -14,5 +14,9 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "name": "module14challenge",
+  "version": "1.0.0",
+  "main": "server.js",
+  "description": ""
 }
